@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Belajar Android</string>
+    <string name="overview">Overview :</string>
+    <string name="sekolah_android">Sekolah Android</string>
+    <string name="sekolah_devops">Sekolah DevOps</string>
+
+    <string-array name="images">
+        <item>https://image.tmdb.org/t/p/w500/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/6vaqTxkRnoGwjeLqyZbVuVR7Snv.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/8ZX18L5m6rH5viSYpRnTSbb9eXh.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/aQvJ5WPzZgYVDrxLX4R6cLJCEaQ.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/f4aul3FyD3jv3v4bul1IrkWZvzq.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/4U7hpTK0XTQBKT5X60bKmJd05ha.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/rmflsMjk4lxx2foNUtd1OKWv6vB.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/33VdppGbeNxICrFUtW2WpGHvfYc.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/AuGiPiGMYMkSosOJ3BQjDEAiwtO.jpg</item>
+        <item>https://image.tmdb.org/t/p/w500/jtrhTYB7xSrJxR1vusu99nvnZ1g.jpg</item>
+    </string-array>
+
+    <string-array name="overview">
+        <item>After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine Bloodshot. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there\'s more to the conspiracy than he thought.</item>
+        <item>After an earthquake destroys their underwater station, six researchers must navigate two miles along the dangerous, unknown depths of the ocean floor to make it to safety in a race against time."</item>
+        <item>A mysterious place, an indescribable prison, a deep hole. An unknown number of levels. Two inmates living on each level. A descending platform containing food for all of them. An inhuman fight for survival, but also an opportunity for solidarity.</item>
+        <item>Based on the global blockbuster videogame franchise from Sega, Sonic the Hedgehog tells the story of the world’s speediest hedgehog as he embraces his new home on Earth. In this live-action adventure comedy, Sonic and his new best friend team up to defend the planet from the evil genius Dr. Robotnik and his plans for world domination.</item>
+        <item>In a suburban fantasy world, two teenage elf brothers embark on an extraordinary quest to discover if there is still a little magic left out there.</item>
+        <item>When Cecilia\'s abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.</item>
+        <item>Twelve strangers wake up in a clearing. They don\'t know where they are—or how they got there. In the shadow of a dark internet conspiracy theory, ruthless elitists gather at a remote location to hunt humans for sport. But their master plan is about to be derailed when one of the hunted turns the tables on her pursuers.</item>
+        <item>Buck is a big-hearted dog whose blissful domestic life is turned upside down when he is suddenly uprooted from his California home and transplanted to the exotic wilds of the Yukon during the Gold Rush of the 1890s. As the newest rookie on a mail delivery dog sled team—and later its leader—Buck experiences the adventure of a lifetime, ultimately finding his true place in the world and becoming his own master.</item>
+        <item>At the height of the First World War, two young British soldiers must cross enemy territory and deliver a message that will stop a deadly attack on hundreds of soldiers.</item>
+        <item>American expat Mickey Pearson has built a highly profitable marijuana empire in London. When word gets out that he’s looking to cash out of the business forever it triggers plots, schemes, bribery and blackmail in an attempt to steal his domain out from under him.</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>Bloodshot</item>
+        <item>Underwater</item>
+        <item>El hoyo</item>
+        <item>Sonic the Hedgehog</item>
+        <item>Onward</item>
+        <item>The Invisible Man</item>
+        <item>The Hunt</item>
+        <item>The Call of the Wild</item>
+        <item>1917</item>
+        <item>The Gentlemen</item>
+    </string-array>
+
+    <string-array name="vote_average">
+        <item>8.8</item>
+        <item>7.9</item>
+        <item>9.9</item>
+        <item>9.4</item>
+        <item>8.2</item>
+        <item>8.5</item>
+        <item>6.3</item>
+        <item>7.5</item>
+        <item>8.1</item>
+        <item>8.0</item>
+    </string-array>
+</resources>
